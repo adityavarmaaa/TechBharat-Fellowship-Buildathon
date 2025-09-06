@@ -1,0 +1,7 @@
+python-dateutil>=2.8
+pandas>=2.0
+numpy
+tabulate
+matplotlib
+pyyaml
+python-slugify

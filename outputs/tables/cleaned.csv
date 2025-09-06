@@ -1,0 +1,4 @@
+date,district,vehicle_id,source_point,dest_point,volume,suspicious,district_slug
+2022-01-01,Hyderabad,TS01AB0001,SourceA,DestA,5000,False,hyderabad
+2022-01-01,Hyderabad,TS01AB0002,SourceB,DestB,8000,False,hyderabad
+2022-01-02,Hyderabad,TS01AB0001,SourceA,DestC,12000,False,hyderabad

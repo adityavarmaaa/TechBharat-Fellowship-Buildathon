@@ -1,0 +1,1 @@
+{"stage": "ingest", "input_path": "data/hmwssb_water_tankers_jan2022.csv", "output_path": "outputs/tables\\standardized.csv", "orig_columns": ["date", "district", "vehicle_no", "from", "destination", "litres"], "mapping": {"date": "date", "district": "district", "vehicle_no": "vehicle_id", "from": "source_point", "destination": "dest_point", "litres": "volume"}, "rows": 3}

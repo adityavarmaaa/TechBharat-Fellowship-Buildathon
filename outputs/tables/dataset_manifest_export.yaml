@@ -1,0 +1,9 @@
+dataset: data/hmwssb_water_tankers_jan2022.csv
+outputs:
+  base: outputs
+  images: outputs/images
+  logs: outputs/logs
+  tables: outputs/tables
+scope:
+  district: Hyderabad
+  month: 2022-01

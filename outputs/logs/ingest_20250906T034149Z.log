@@ -1,0 +1,4 @@
+2025-09-06 09:11:50,585 | INFO | Loading data/hmwssb_water_tankers_jan2022.csv
+2025-09-06 09:11:50,599 | INFO | Canonical mapping applied: {'date': 'date', 'district': 'district', 'vehicle_no': 'vehicle_id', 'from': 'source_point', 'destination': 'dest_point', 'litres': 'volume'}
+2025-09-06 09:11:50,601 | INFO | Scoped to district: Hyderabad — 3 rows remain
+2025-09-06 09:11:50,601 | INFO | Ingest complete; standardized CSV written

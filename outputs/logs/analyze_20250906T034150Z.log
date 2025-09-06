@@ -1,0 +1,3 @@
+2025-09-06 09:11:50,616 | INFO | Loading cleaned CSV outputs/tables\cleaned.csv
+2025-09-06 09:11:51,828 | INFO | Volume trend chart written to outputs/images\volume_trend.png
+2025-09-06 09:11:51,835 | INFO | Analysis complete; insights and visuals generated

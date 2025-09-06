@@ -1,0 +1,21 @@
+dataset:
+  name: "HMWSSB Water Tanker Bookings"
+  local_copy: "C:\Users\adity\Downloads\tankers_reports_2022_1.csv"
+ # <-- replace with exact portal link
+  description: "Water tanker supply data maintained by Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB). Tracks tanker bookings, source/destination points, and volumes delivered."
+  scope:
+    district: "Hyderabad"
+    time_range: "2022-01-01 to 2022-01-31"
+    reason_for_scope: "Demonstration of pipeline on a manageable subset (one district, one month)."
+  key_fields:
+    - date
+    - district
+    - vehicle_no
+    - from
+    - destination
+    - litres
+  governance_relevance: |
+    This dataset highlights urban water distribution by tanker services.
+    Analysis can reveal demand hotspots, supply imbalances, and efficiency
+    of public water delivery — all critical for urban policy and
+    emergency water allocation.

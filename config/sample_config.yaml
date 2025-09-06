@@ -1,0 +1,13 @@
+# sample_config.yaml
+dataset_path: data/hmwssb_water_tankers_jan2022.csv
+scope:
+  district: Hyderabad
+  month: 2022-01
+outputs:
+  base: outputs
+  tables: outputs/tables
+  images: outputs/images
+  logs: outputs/logs
+thresholds:
+  missing_value_pct_alert: 0.2
+  suspicious_volume_liters: 100000  # per-record volume threshold to flag

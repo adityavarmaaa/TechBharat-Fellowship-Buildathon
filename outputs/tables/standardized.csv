@@ -1,0 +1,4 @@
+date,district,vehicle_id,source_point,dest_point,volume
+2022-01-01,Hyderabad,TS01AB0001,SourceA,DestA,5000
+2022-01-01,Hyderabad,TS01AB0002,SourceB,DestB,8000
+2022-01-02,Hyderabad,TS01AB0001,SourceA,DestC,12000
