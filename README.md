@@ -1,3 +1,7 @@
+Video Explanation : https://www.loom.com/share/8b5cecee0c8e46b8a53d3fb79d8059e0?sid=577cee86-3c6f-4e84-9c90-2e42e7a86ce2 
+                    https://www.loom.com/share/6775a99611f74c58a77a6bfb1ce7c737?sid=ee3fa3ca-ffab-4308-abf3-966e48e4fc6f
+                  
+
 # RTGS-Style AI Analyst — Telangana Open Data (HMWSSB Water Tankers, Jan 2022)
 
 **Quick:** This repo is a CLI-first, agentic pipeline that ingests the HMWSSB water tanker dataset (Jan 2022), cleans it, analyzes it, and writes terminal-friendly outputs plus saved artifacts. Scope by default: **Hyderabad district** (change `config/sample_config.yaml`).
